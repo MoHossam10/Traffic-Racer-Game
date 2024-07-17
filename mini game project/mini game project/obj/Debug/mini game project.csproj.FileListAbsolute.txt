@@ -1,0 +1,10 @@
+C:\Users\pc\OneDrive\Desktop\CS\semester4\Multimedia (CS232)\mini game project\mini game project\bin\Debug\mini game project.exe.config
+C:\Users\pc\OneDrive\Desktop\CS\semester4\Multimedia (CS232)\mini game project\mini game project\bin\Debug\mini game project.exe
+C:\Users\pc\OneDrive\Desktop\CS\semester4\Multimedia (CS232)\mini game project\mini game project\bin\Debug\mini game project.pdb
+C:\Users\pc\OneDrive\Desktop\CS\semester4\Multimedia (CS232)\mini game project\mini game project\obj\Debug\mini game project.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\CS\semester4\Multimedia (CS232)\mini game project\mini game project\obj\Debug\mini_game_project.ActorS.resources
+C:\Users\pc\OneDrive\Desktop\CS\semester4\Multimedia (CS232)\mini game project\mini game project\obj\Debug\mini_game_project.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\CS\semester4\Multimedia (CS232)\mini game project\mini game project\obj\Debug\mini game project.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\CS\semester4\Multimedia (CS232)\mini game project\mini game project\obj\Debug\mini game project.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\CS\semester4\Multimedia (CS232)\mini game project\mini game project\obj\Debug\mini game project.exe
+C:\Users\pc\OneDrive\Desktop\CS\semester4\Multimedia (CS232)\mini game project\mini game project\obj\Debug\mini game project.pdb
