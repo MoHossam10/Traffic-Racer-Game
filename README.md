@@ -1,2 +1,2 @@
-This is Traffic Rcer game by C#
+This is Traffic Racer game by C#
 ![Project Screenshot](TrafficRacer.png)
